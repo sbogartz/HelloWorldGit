@@ -11,6 +11,7 @@ namespace HelloWorldGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Git");
+            Console.ReadLine(); // Do nothing ; wait for operator to clear results.
         }
     }
 }
